@@ -4,7 +4,6 @@
 # ---------------------------------------#
 import time
 import socket
-import logging
 import colorama
 from ping3 import ping
 from termcolor import colored
