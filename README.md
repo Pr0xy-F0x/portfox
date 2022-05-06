@@ -1,4 +1,4 @@
 # portfox
-Portscanner build in python. 
+Portscanner built in python. 
 
-Mulit-platform support: Linux, Mac OS & Windows.
+Multi-platform support: Linux, Mac OS & Windows.
